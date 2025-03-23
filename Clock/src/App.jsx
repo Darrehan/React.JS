@@ -16,7 +16,7 @@ function App() {
   return (
 <div className="container">
 <h1> {timebuddy} </h1>
-<button onClick={gettime}>simple clock </button>
+<button onClick={gettime}>clock </button>
 </div>
   
   )
